@@ -1,0 +1,38 @@
+{
+  "name": "claude-media-buying",
+  "owner": {
+    "name": "Pedro Nunes",
+    "url": "https://github.com/onunoszz-sudo"
+  },
+  "plugins": [
+    {
+      "name": "media-buying",
+      "source": "./plugins/media-buying",
+      "description": "Rotina de media buying em portugues para Meta Ads e Google Ads: numeros da conta (com modo hotel), brief diario, revisao com rotulos MATAR/OBSERVAR/ESCALAR e venda real por anuncio, diagnostico por estagio do funil, negativas, saude do Google Ads, pacing de verba, relatorio semanal, log de aprendizados, QA de lancamento, rodada de teste, multiplicador de vencedor, conferencia de rastreamento e mapa de angulos.",
+      "version": "0.5.0",
+      "keywords": [
+        "meta ads",
+        "google ads",
+        "trafego pago",
+        "media buying",
+        "low-ticket",
+        "agencia"
+      ]
+    },
+    {
+      "name": "media-buying-en",
+      "source": "./plugins/media-buying-en",
+      "description": "Media buying operations for Meta Ads and Google Ads in English: account numbers (incl. hotel mode), daily brief, Meta review with KILL/WATCH/SCALE and real sales per ad, ad diagnosis, search terms, Google Ads health, budget pacing, weekly client report, learnings log, launch QA, test round, winner multiplier, tracking check and angle map.",
+      "version": "0.5.0",
+      "keywords": [
+        "meta ads",
+        "google ads",
+        "media buying",
+        "ppc",
+        "hotel marketing",
+        "budget pacing",
+        "agency"
+      ]
+    }
+  ]
+}

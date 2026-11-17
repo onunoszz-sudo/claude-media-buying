@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# credenciais / credentials
+.env
+*.env
+client_secret*.json
+adc.json
+*credential*.json

@@ -1,0 +1,18 @@
+{
+  "name": "media-buying-en",
+  "version": "0.5.0",
+  "description": "Media buying operations for Meta Ads and Google Ads in English: account numbers (incl. hotel mode), daily brief, Meta review with KILL/WATCH/SCALE, ad diagnosis, search terms, Google Ads health, budget pacing, weekly client report and learnings log. Claude proposes, you approve.",
+  "author": {
+    "name": "Pedro Nunes"
+  },
+  "keywords": [
+    "meta ads",
+    "google ads",
+    "media buying",
+    "ppc",
+    "paid social",
+    "hotel marketing",
+    "budget pacing",
+    "agency"
+  ]
+}

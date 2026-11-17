@@ -1,0 +1,16 @@
+{
+  "name": "media-buying",
+  "version": "0.5.0",
+  "description": "Rotina de media buying em portugues para Meta Ads e Google Ads, com o Claude propondo e voce aprovando cada mudanca.",
+  "author": {
+    "name": "Pedro Nunes"
+  },
+  "keywords": [
+    "meta ads",
+    "google ads",
+    "trafego pago",
+    "media buying",
+    "low-ticket",
+    "agencia"
+  ]
+}
