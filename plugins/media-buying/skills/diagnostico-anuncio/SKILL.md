@@ -37,8 +37,15 @@ houver vira FALTANDO, com onde conseguir.
 - **Um estágio abaixo da média:** CONSERTAR. Rebrief só desse estágio.
 - **Dois estágios:** CONSERTAR o mais cedo no funil primeiro (consertar o hook muda quem
   chega no resto).
-- **Todos abaixo:** MATAR de verdade. Escreva a lição: que hipótese o anúncio testou e o
-  que o resultado sugere.
+- **Todos abaixo:** antes de MATAR, descubra o que falhou, do conserto mais barato para o mais
+  caro:
+  1. **embalagem** (gancho, primeiro quadro, texto na tela, título): é barato trocar e não muda a ideia;
+  2. **fator externo** (sazonalidade, data comemorativa, leilão mais caro, mudança na página ou na oferta);
+  3. **ideia** (o ângulo em si);
+  4. **público** (a pessoa que esse anúncio atrai serve à oferta?).
+
+  Troque a embalagem antes de descartar a ideia. Se nada explicar, MATAR de verdade e escrever a
+  lição: que hipótese o anúncio testou e o que o resultado sugere.
 
 ## Rebrief por estágio
 Dê 3 correções específicas, que dá para briefar hoje, usando só promessas de `marca.md`:

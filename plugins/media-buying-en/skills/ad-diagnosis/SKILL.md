@@ -39,8 +39,14 @@ with where to get them.
 ## Verdict
 - **One stage below average:** FIX. Rebrief that stage only.
 - **Two stages:** FIX the earliest one first (a new hook changes who reaches the rest).
-- **All stages below:** KILL for real. Write the lesson: what hypothesis the ad tested and what the
-  result suggests.
+- **All stages below:** before you KILL, find what failed, cheapest fix first:
+  1. **packaging** (hook, first frame, on-screen text, headline): cheap to swap, keeps the idea;
+  2. **external** (seasonality, holidays, pricier auction, a change in the page or the offer);
+  3. **idea** (the angle itself);
+  4. **audience** (do the people this ad attracts fit the offer?).
+
+  Swap the packaging before you drop the idea. If nothing explains it, KILL for real and write the
+  lesson: what hypothesis the ad tested and what the result suggests.
 
 ## Rebrief by stage
 Three specific fixes that can be briefed today, using only claims allowed in `brand.md`:
